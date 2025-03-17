@@ -26,3 +26,5 @@ The vision of this project is to create a decentralized, blockchain-powered atte
 - Event Logging: Emits events (`StudentRegistered`, `AttendanceMarked`, `TeacherTransferred`) for transparency.
 - Security: The `onlyTeacher` modifier restricts critical functions to the teacher, enhancing access control.
 ## Smart contract address:(0x0f7c9Db4b75df141ec700EDBcA62d620d2949bFf)
+![image](https://github.com/user-attachments/assets/affe45de-64f5-4bfb-9a2b-0ca10471bce6)
+
